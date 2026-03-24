@@ -1,0 +1,8 @@
+text,category,priority
+Internet not working,Technical,High
+Payment failed,Billing,High
+Slow app performance,Technical,Medium
+Need refund,Billing,High
+App crash issue,Technical,High
+Change account details,General,Low
+Login problem,Technical,Medium
